@@ -1,2 +1,2 @@
-# jetson_four_camera
+# jetson_four_cameras
 Development to run object detection on live video from four cameras
